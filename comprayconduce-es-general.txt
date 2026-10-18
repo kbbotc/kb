@@ -1,4 +1,4 @@
-Información actualizada el 17/10/2026.
+Información actualizada el 18/10/2026.
 
 
 # Ubicaciones y Concesionarios de Compra y Conduce
@@ -169,8 +169,8 @@ Cómo llegar
 
 # Coches Ocasión | Compra y Conduce
 
-628 Vehículos encontrados
-Mostrar 628 coches Cerrar
+620 Vehículos encontrados
+Mostrar 620 coches Cerrar
 Filtrar
 Si estás pensando comprar tu coche ocasión por localidad, te facilitamos nuestra exclusiva selección de vehículos para ti.
 ¡Ven a visitarnos!
@@ -187,7 +187,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.3 PHEV Limited 4xe AT 140 kW (190 CV) 128.548 km 2022 Híbrido Electro/Gasolina 190 CV Automático Negro Precio financiado 12.687 € Precio contado 13.790 € Tel. 911670817
 [Coches Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 43.210 km 2023 Gasolina 70 CV Manual Blanco Precio financiado 9.375 € Precio contado 10.190 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 127.840 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 13.331 € Precio contado 14.490 € Tel. 911670817
-[Coches Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 56.194 km 2023 Gasolina 70 CV Manual Azul Precio financiado 8.731 € Precio contado 9.490 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 DS DS3 Crossback PureTech Grand Chic Auto 96 kW (130 CV) 90.365 km 2020 Gasolina 130 CV Automático Violeta Precio financiado 12.871 € Precio contado 13.990 € Tel. 911670817
 [Coches Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 56.920 km 2023 Gasolina 70 CV Manual Blanco Precio financiado 8.731 € Precio contado 9.490 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Stelvio 2.0 Gasolina Sprint+ Q4 148 kW (200 CV) 36.487 km 2021 200 CV Automático Gris oscuro Precio financiado 35.411 € Precio contado 38.490 € Tel. 911670817
@@ -211,7 +210,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 4 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 14.251 € Precio contado 15.490 € Tel. 911670817
 [Coches Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 5 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 14.251 € Precio contado 15.490 € Móstoles Tel. 911677291
 [Coches Ocasión] Kia Ceed 1.6 MHEV iMT Drive 100 kW (136 CV) 58.768 km 2023 Diésel 136 CV Manual Negro Precio financiado 17.011 € Precio contado 18.490 € Móstoles Tel. 911677291
-[Coches Ocasión] Fiat 500C electrico Monotrim Cabrio 320km 85kW 87 kW (118 CV) 8 km 2024 Eléctrico 118 CV Automático Rosa Precio financiado 18.851 € Precio contado 20.490 € Tel. 911670817
 [Coches Ocasión] Opel Grandland 1.2 Turbo S&S GS Auto 96 kW (130 CV) 60.647 km 2023 Gasolina 130 CV Automático Gris Plata Precio financiado 13.331 € Precio contado 14.490 € Tel. 911670817
 [Coches Ocasión] Citroen C4 Cactus BlueHDi 100 Rip Curl 73 kW (100 CV) 112.329 km 2016 Diésel 100 CV Manual Negro Precio financiado 6.891 € Precio contado 7.490 € Tel. 911670817
 [Coches Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 5 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 14.251 € Precio contado 15.490 € Tel. 911670817
@@ -254,7 +252,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] Dacia Sandero Base 1.0 54 kW (73 CV) 55.000 km 2018 Gasolina 73 CV Manual Negro Precio financiado 8.271 € Precio contado 8.990 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 BMW X3 xDrive30e 215 kW (292 CV) 154.065 km 2020 Híbrido Electro/Gasolina 292 CV Automático Azul Precio financiado 20.231 € Precio contado 21.990 € Tel. 911670817
 [Coches Ocasión] Mercedes-Benz Citan Combi 110 CDI Tourer Base 70 kW (95 CV) 15.833 km 2025 Diésel 95 CV Manual Blanco Precio financiado 22.991 € Precio contado 24.990 € Tel. 911670817
-[Coches Ocasión] Nissan Micra IG-T 100 Acenta 74 kW (100 CV) 115.328 km 2019 Gasolina 100 CV Manual Gris Precio financiado 8.271 € Precio contado 8.990 € Tel. 911670817
 [Coches Ocasión] BYD Seal U DM-i Comfort 160 kW (218 CV) 16.811 km 2025 Híbrido Electro/Gasolina 218 CV Automático Negro Precio financiado 27.591 € Precio contado 29.990 € Tel. 911670817
 [Coches Ocasión] CUPRA Leon Sportstourer 1.4 e-Hybrid DSG 180 kW (245 CV) 123.391 km 2020 Híbrido Electro/Gasolina 245 CV Automático Gris Precio financiado 18.391 € Precio contado 19.990 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Stelvio 2.2 Diesel Sprint RWD 118 kW (160 CV) 93.696 km 2022 Diésel 160 CV Automático Blanco Precio financiado 18.391 € Precio contado 19.990 € Móstoles Tel. 911677291
@@ -275,7 +272,7 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Citroen C5 Aircross BlueHdi 130 S&S Feel 96 kW (131 CV) 103.137 km 2021 Diésel 131 CV Manual Blanco Precio financiado 11.951 € Precio contado 12.990 € Tel. 911670817
 [Coches Ocasión] Lexus UX 250h Business 2WD 135 kW (184 CV) 105.416 km 2021 Híbrido Electro/Gasolina 184 CV Automático Gris Precio financiado 20.047 € Precio contado 21.790 € Tel. 911670817
 [Coches Ocasión] EBRO S700 1.6 TGDI Luxury 7 DCT 108 kW (147 CV) 6.578 km 2025 Gasolina 147 CV Automático Blanco Precio financiado 22.531 € Precio contado 24.490 € Tel. 911670817
-[Coches Ocasión] Opel Corsa 1.2T XHL GS 74 kW (100 CV) 13 km 2025 Gasolina 100 CV Manual Azul Precio financiado 13.791 € Precio contado 14.990 € Móstoles Tel. 911677291
+[Coches Ocasión] Opel Corsa 1.2 T XHL GS 74 kW (100 CV) 13 km 2025 Gasolina 100 CV Manual Azul Precio financiado 13.791 € Precio contado 14.990 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 85.729 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 14.711 € Precio contado 15.990 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.3 PHEV S AWD AT 177 kW (240 CV) 100.406 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 15.490 € Precio contado 16.490 € Logroño Tel. 941258248
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Cherokee 2.0 Diesel Longitude 4x2 103 kW (140 CV) 98.525 km 2015 Diésel 140 CV Manual Negro Precio financiado 11.031 € Precio contado 11.990 € Tel. 911670817
@@ -294,9 +291,7 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Stelvio 2.2 Diésel Veloce Q4 Auto 154 kW (210 CV) 105.595 km 2022 210 CV Automático Negro Precio financiado 21.611 € Precio contado 23.490 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Avenger 1.2 eHybrid Altitude 81 kW (110 CV) 11 km 2025 Gasolina 110 CV Automático Amarillo Precio financiado 21.611 € Precio contado 23.490 € Tel. 911670817
 [Coches Ocasión] Opel Corsa 1.2T XHL Hybrid Edition eDCT 81 kW (110 CV) 3 km 2025 Gasolina 110 CV Automático Blanco Precio financiado 16.091 € Precio contado 17.490 € Tel. 911670817
-[Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Avenger 1.2 eHybrid Summit 81 kW (110 CV) 2.051 km 2026 Gasolina 110 CV Automático Gris Precio financiado 21.151 € Precio contado 22.990 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 127.356 km 2022 Híbrido Electro/Gasolina 240 CV Automático Blanco Precio financiado 12.687 € Precio contado 13.790 € Tel. 911670817
-[Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Stelvio 2.2 Diésel Veloce Q4 Auto 154 kW (210 CV) 40.570 km 2021 210 CV Automático Gris Precio financiado 24.831 € Precio contado 26.990 € Tel. 911670817
 [Coches Ocasión] Fiat 500 1.0 Hybrid Dolcevita 51 kW (70 CV) 74.148 km 2022 Gasolina 70 CV Manual Blanco Precio financiado 8.271 € Precio contado 8.990 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Compass 1.5 MHEV Limited DCT 96 kW (130 CV) 128.719 km 2022 Gasolina 130 CV Automático Azul Precio financiado 14.251 € Precio contado 15.490 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 118.996 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 13.331 € Precio contado 14.490 € Tel. 911670817
@@ -327,7 +322,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Stelvio 2.2 Diésel Veloce Q4 Auto 154 kW (210 CV) 113.832 km 2022 210 CV Automático Negro Precio financiado 21.611 € Precio contado 23.490 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Peugeot 508 PureTech 130 Active Pack EAT8 96 kW (130 CV) 23.242 km 2022 Gasolina 131 CV Automático Azul Precio financiado 16.990 € Precio contado 18.490 € Sevilla Tel. 854624425
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Tonale 1.5 MHEV Sprint FWD 96 kW (130 CV) 78.888 km 2022 Gasolina 130 CV Automático Rojo Precio financiado 16.490 € Precio contado 17.990 € Sevilla Tel. 854624425
-[Coches Ocasión] Fiat 500 1.0 Hybrid Dolcevita 51 kW (70 CV) 67.202 km 2022 Gasolina 70 CV Manual Negro Precio financiado 8.290 € Precio contado 8.990 € Sevilla Tel. 854624425
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Citroen ë-C4 eléctrico Feel Pack 100 kW (136 CV) 75 km 2023 136 CV Automático Gris Precio financiado 20.490 € Precio contado 22.490 € Sevilla Tel. 854624425
 [Coches Ocasión] Citroen C-Elysee HDi 90 Seduction 68 kW (92 CV) 127.815 km 2014 Diésel 92 CV Manual Azul Precio financiado 6.990 € Precio contado 6.990 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Peugeot 2008 PureTech 130 S&S Allure Pack 96 kW (130 CV) 11 km 2023 Gasolina 130 CV Manual Rojo Precio financiado 16.490 € Precio contado 17.990 € Sevilla Tel. 854624425
@@ -389,7 +383,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 JAECOO 7 1.6 TGDI Exclusive AWD 108 kW (145 CV) 3.161 km 2025 Gasolina 147 CV Automático Blanco Precio financiado 28.971 € Precio contado 31.490 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 OMODA 5 EV 61kWh Premium 150 kW (204 CV) 31.434 km 2024 Eléctrico 204 CV Automático Blanco Precio financiado 26.211 € Precio contado 28.490 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 JAECOO 7 1.6 TGDI Select FWD 108 kW (145 CV) 8 km 2025 Gasolina 147 CV Automático Gris Precio financiado 29.891 € Precio contado 32.490 € Tel. 911670817
-[Coches Ocasión] Honda HR-V 1.5 i-MMD Advance 4x2 96 kW (131 CV) 63.712 km 2022 Híbrido Electro/Gasolina 131 CV Automático Beige Precio financiado 20.231 € Precio contado 21.990 € Tel. 911670817
 [Coches Ocasión] Kia Niro 1.6 GDi PHEV Concept 135 kW (183 CV) 42.678 km 2023 Híbrido Electro/Gasolina 183 CV Automático Rojo Precio financiado 20.691 € Precio contado 22.490 € Tel. 911670817
 [Coches Ocasión] Mitsubishi Eclipse Cross 2.4 PHEV Kaiteki 4WD Auto 138 kW (188 CV) 91.155 km 2022 Híbrido Electro/Gasolina 188 CV Automático Negro Precio financiado 17.011 € Precio contado 18.490 € Móstoles Tel. 911677291
 [Coches Ocasión] Ford Fiesta 1.0 EcoBoost S&S Active+ 74 kW (100 CV) 111.313 km 2018 Gasolina 100 CV Manual Amarillo Precio financiado 8.731 € Precio contado 9.490 € Tel. 911670817
@@ -585,7 +578,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] Ford Kuga 2.5 Duratec PHEV ST-Line X Auto 165 kW (225 CV) 73.745 km 2022 Híbrido Electro/Gasolina 225 CV Automático Blanco Precio financiado 18.851 € Precio contado 20.490 € Tel. 911670817
 [Coches Ocasión] BMW Serie 4 430i Gran Coupe 185 kW (252 CV) 46.778 km 2018 Gasolina 252 CV Automático Naranja Precio financiado 25.751 € Precio contado 27.990 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Wrangler 2.0 Sahara 8ATX 280 kW (381 CV) 52.905 km 2021 Híbrido Electro/Gasolina 381 CV Automático Blanco Precio financiado 47.831 € Precio contado 51.990 € Móstoles Tel. 911677291
-[Coches Ocasión] Peugeot 3008 1.5 BlueHDi S&S Style 96 kW (130 CV) 112.005 km 2020 Diésel 130 CV Manual Blanco Precio financiado 11.767 € Precio contado 12.790 € Tel. 911670817
 [Coches Ocasión] Ssangyong Torres G15 Life 120 kW (163 CV) 20 km 2025 Gasolina 163 CV Manual Blanco Precio financiado 31.300 € Precio contado 31.300 € Logroño Tel. 941258248
 [Coches Ocasión] Fiat 500 Electrico Monotrim 190km 70 kW (95 CV) 15 km 2025 Eléctrico 95 CV Automático Blanco Precio financiado 19.990 € Precio contado 21.990 € Logroño Tel. 941258248
 [Coches Ocasión] Fiat 500 Electrico 500 Icon Hb 190km 70 kW (95 CV) 5 km 2025 Eléctrico 95 CV Automático Rosa Precio financiado 19.990 € Precio contado 21.990 € Logroño Tel. 941258248
