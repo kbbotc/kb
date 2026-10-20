@@ -1,11 +1,13 @@
-Información actualizada el 19/10/2026.
+Información actualizada el 20/10/2026.
 
 
 # Coches Ocasión en Madrid | Compra y Conduce
 
-535 Vehículos encontrados
-Mostrar 535 coches Cerrar
+532 Vehículos encontrados
+Mostrar 532 coches Cerrar
 
+[Coches Ocasión en Madrid] Audi A4 2.0 TDI 110 kW (150 CV) 158.303 km 2016 Diésel 150 CV Manual Blanco Precio financiado 15.490 € Precio contado 16.490 € Tel. 911670817
+[Coches Ocasión en Madrid] Dacia Sandero Stepway Comfort TCe 67 kW (91 CV) CVT 48.407 km 2022 Gasolina 91 CV Automático Rojo Precio financiado 13.990 € Precio contado 14.990 € Tel. 911670817
 [Coches Ocasión en Madrid] Volvo S80 2.5 T Optima III 154 kW (210 CV) 167.901 km 2004 Gasolina 210 CV Manual Gris Plata Precio financiado 5.990 € Precio contado 5.990 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Wrangler 2.2 CRD Sahara 8ATX 147 kW (200 CV) 59.000 km 2021 Diésel 200 CV Automático Negro Precio financiado 45.990 € Precio contado 48.990 € Tel. 911670817
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 114.958 km 2022 Híbrido Electro/Gasolina 240 CV Automático Blanco Precio financiado 13.331 € Precio contado 14.490 € Tel. 911670817
@@ -13,7 +15,6 @@ Mostrar 535 coches Cerrar
 [Coches Ocasión en Madrid] Citroen C4 Picasso 1.6 VTi Seduction 88 kW (120 CV) 94.629 km 2012 Gasolina 120 CV Manual Blanco Precio financiado 5.511 € Precio contado 5.990 € Tel. 911670817
 [Coches Ocasión en Madrid] Kia Niro 1.6 GDi HEV Concept 104 kW (141 CV) 60.074 km 2022 Híbrido Electro/Gasolina 141 CV Automático Verde Precio financiado 17.471 € Precio contado 18.990 € Tel. 911670817
 [Coches Ocasión en Madrid] Nissan Qashqai DIG-T 115 Acenta 4x2 85 kW (115 CV) 105.953 km 2014 Gasolina 115 CV Manual Blanco Precio financiado 8.731 € Precio contado 9.490 € Tel. 911670817
-[Coches Ocasión en Madrid] Fiat 500 1.0 Hybrid Dolcevita 51 kW (70 CV) 63.028 km 2022 Gasolina 70 CV Manual Azul Precio financiado 8.271 € Precio contado 8.990 € Tel. 911670817
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.3 PHEV Limited 4xe AT 140 kW (190 CV) 128.548 km 2022 Híbrido Electro/Gasolina 190 CV Automático Negro Precio financiado 12.687 € Precio contado 13.790 € Tel. 911670817
 [Coches Ocasión en Madrid] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 43.210 km 2023 Gasolina 70 CV Manual Blanco Precio financiado 9.375 € Precio contado 10.190 € Tel. 911670817
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 127.840 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 13.331 € Precio contado 14.490 € Tel. 911670817
@@ -28,7 +29,6 @@ Mostrar 535 coches Cerrar
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 125.617 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 12.687 € Precio contado 13.790 € Tel. 911670817
 [Coches Ocasión en Madrid] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 16.795 km 2023 Gasolina 70 CV Manual Negro Precio financiado 10.387 € Precio contado 11.290 € Tel. 911670817
 [Coches Ocasión en Madrid] Ssangyong Kyron 200 XDI 104 kW (141 CV) 84.533 km 2011 Diésel 138 CV Manual Gris Precio financiado 6.891 € Precio contado 7.490 € Móstoles Tel. 911677291
-[Coches Ocasión en Madrid] Renault Grand Scenic Zen TCe 103 kW (140 CV) GPF 98.604 km 2019 Gasolina 140 CV Manual Azul Precio financiado 13.331 € Precio contado 14.490 € Tel. 911670817
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Avenger 1.2 eHybrid Summit 81 kW (110 CV) 9 km 2025 Gasolina 110 CV Automático Gris Precio financiado 21.611 € Precio contado 23.490 € Tel. 911670817
 [Coches Ocasión en Madrid] EBRO S700 1.6 TGDI Luxury 7 DCT 108 kW (147 CV) 13.329 km 2025 Gasolina 147 CV Automático Blanco Precio financiado 21.795 € Precio contado 23.690 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] EBRO S700 1.6 TGDI Luxury 7 DCT 108 kW (147 CV) 9.622 km 2025 Gasolina 147 CV Automático Gris Precio financiado 22.991 € Precio contado 24.990 € Tel. 911670817
@@ -274,7 +274,7 @@ Mostrar 535 coches Cerrar
 [Coches Ocasión en Madrid] Opel Grandland 1.2T XHT Hybrid S&S GS eDCT6 100 kW (136 CV) 5 km 2025 Gasolina 136 CV Automático Rojo Precio financiado 26.671 € Precio contado 28.990 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Grand Cherokee 2.0 PHEV Overland 4xe 280 kW (381 CV) 10 km 2025 Híbrido Electro/Gasolina 381 CV Automático Blanco Precio financiado 74.990 € Precio contado 79.990 € Tel. 911670817
 [Coches Ocasión en Madrid] Renault Scenic Emotion dCi 78 kW (105 CV) 127.408 km 2010 Diésel 105 CV Manual Rojo Precio financiado 5.971 € Precio contado 6.490 € Tel. 911670817
-[Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Volvo C40 Eléctrico Recharge Extended Plus Auto 185 kW (252 CV) 30.000 km 2024 252 CV Automático Rojo Precio financiado 31.271 € Precio contado 33.990 € Tel. 911670817
+[Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Volvo C40 Eléctrico Recharge Extended Plus Auto 185 kW (252 CV) 42.000 km 2024 252 CV Automático Rojo Precio financiado 31.271 € Precio contado 33.990 € Tel. 911670817
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 12 km 2023 Híbrido Electro/Gasolina 240 CV Automático Azul Precio financiado 27.131 € Precio contado 29.490 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 DS DS 9 E-Tense 250 Rivoli+ 184 kW (250 CV) 43.590 km 2023 Híbrido Electro/Gasolina 250 CV Automático Azul Precio financiado 25.751 € Precio contado 27.990 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 JAECOO 7 1.6 TGDI Select FWD 108 kW (145 CV) 8.918 km 2025 Gasolina 147 CV Automático Blanco Precio financiado 23.590 € Precio contado 25.990 € Tel. 976133336
@@ -362,7 +362,6 @@ Mostrar 535 coches Cerrar
 [Coches Ocasión en Madrid] Ford Fiesta 1.25 Duratec Trend 60 kW (82 CV) 55.381 km 2016 Gasolina 82 CV Manual Azul Precio financiado 7.351 € Precio contado 7.990 € Tel. 911670817
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 OMODA 5 EV 61kWh Premium 150 kW (204 CV) 30.000 km 2024 Eléctrico 204 CV Automático Blanco Precio financiado 27.131 € Precio contado 29.490 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Volvo V40 D2 Kinetic Auto 88 kW (120 CV) 142.569 km 2017 Diésel 120 CV Automático Rojo Precio financiado 10.571 € Precio contado 11.490 € Móstoles Tel. 911677291
-[Coches Ocasión en Madrid] Ford Kuga 2.5 Duratec PHEV ST-Line X Auto 165 kW (225 CV) 73.745 km 2022 Híbrido Electro/Gasolina 225 CV Automático Blanco Precio financiado 18.851 € Precio contado 20.490 € Tel. 911670817
 [Coches Ocasión en Madrid] BMW Serie 4 430i Gran Coupe 185 kW (252 CV) 46.778 km 2018 Gasolina 252 CV Automático Naranja Precio financiado 25.751 € Precio contado 27.990 € Tel. 911670817
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Wrangler 2.0 Sahara 8ATX 280 kW (381 CV) 52.905 km 2021 Híbrido Electro/Gasolina 381 CV Automático Blanco Precio financiado 47.831 € Precio contado 51.990 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Grand Cherokee 3.0 CRD V6 Limited 184 kW (250 CV) 193.312 km 2013 Diésel 250 CV Automático Blanco Precio financiado 14.711 € Precio contado 15.990 € Tel. 911670817
@@ -376,7 +375,6 @@ Mostrar 535 coches Cerrar
 [Coches Ocasión en Madrid] Peugeot 3008 1.6 HDI Allure 85 kW (115 CV) 139.491 km 2013 Diésel 115 CV Manual Azul Precio financiado 5.971 € Precio contado 6.490 € Tel. 911670817
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 DS DS3 Crossback BlueHDi 100 Roofs Of Paris 81 kW (110 CV) 0 km 2023 Diésel 110 CV Manual Gris Plata Precio financiado 24.490 € Precio contado 25.990 € Tel. 913341520
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Peugeot 2008 VTI 82 Active 60 kW (82 CV) 169.460 km 2015 Gasolina 82 CV Manual Blanco Precio financiado 6.790 € Precio contado 6.790 € Tel. 911670817
-[Coches Ocasión en Madrid] Opel Mokka X 1.4 Turbo Excellence 4X2 Auto 103 kW (140 CV) 72.358 km 2018 Gasolina 140 CV Automático Gris Precio financiado 11.491 € Precio contado 12.490 € Tel. 911670817
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Peugeot 3008 PureTech 130 S&S Allure Pack 96 kW (130 CV) 2 km 2024 Gasolina 130 CV Manual Azul Precio financiado 18.851 € Precio contado 20.490 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade eHybrid 1.5 Limited ATX 96 kW (130 CV) 55.350 km 2022 Gasolina 130 CV Automático Gris Precio financiado 16.091 € Precio contado 17.490 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade eHybrid 1.5 Limited ATX 96 kW (130 CV) 55.685 km 2022 Gasolina 130 CV Automático Blanco Precio financiado 16.091 € Precio contado 17.490 € Móstoles Tel. 911677291
@@ -393,7 +391,6 @@ Mostrar 535 coches Cerrar
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 DS DS7 Crossback E-Tense 300 Performance Line+ 4WD Auto 221 kW (300 CV) 70.100 km 2021 Híbrido Electro/Gasolina 300 CV Automático Blanco Precio financiado 16.551 € Precio contado 17.990 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 DS DS7 Crossback BlueHDi 130 So Chic Auto 96 kW (130 CV) 108.083 km 2021 Diésel 130 CV Automático Oro Precio financiado 13.791 € Precio contado 14.990 € Tel. 912987065
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Peugeot 2008 PureTech 130 S&S GT 96 kW (130 CV) 1 km 2024 Gasolina 130 CV Manual Azul Precio financiado 17.471 € Precio contado 18.990 € Móstoles Tel. 911677291
-[Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 DS DS7 Crossback E-Tense 225 Performance Line+ Auto 165 kW (225 CV) 107.538 km 2022 Híbrido Electro/Gasolina 225 CV Automático Gris Precio financiado 16.091 € Precio contado 17.490 € Tel. 911670817
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Jeep Compass 1.5 MHEV eHybrid Longitude DCT 96 kW (130 CV) 41.366 km 2022 Gasolina 130 CV Automático Gris Precio financiado 20.990 € Precio contado 22.290 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Tonale 1.5 MHEV Sprint FWD 96 kW (130 CV) 71.217 km 2022 Gasolina 130 CV Automático Rojo Precio financiado 15.631 € Precio contado 16.990 € Móstoles Tel. 911677291
 [Coches Ocasión en Madrid] ¡Descuento especial! Solo hasta el 31/10 DS DS7 Crossback BlueHDi 130 DE Performance Line AT 96 kW (130 CV) 76.002 km 2020 Diésel 130 CV Automático Gris Precio financiado 16.091 € Precio contado 17.490 € Móstoles Tel. 911677291
