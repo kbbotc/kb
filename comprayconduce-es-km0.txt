@@ -502,8 +502,8 @@ Mostrar 59 coches Cerrar
 
 # Coches KM 0 en Madrid | Compra y Conduce
 
-108 Vehículos encontrados
-Mostrar 108 coches Cerrar
+107 Vehículos encontrados
+Mostrar 107 coches Cerrar
 
 [Coches KM 0 en Madrid] SEAT Arona 1.0 TSI S&S Style 85 kW (115 CV) 10 km 2026 Gasolina 115 CV Manual Gris Precio financiado 18.890 € Precio contado 19.890 € Móstoles Tel. 911677291
 [Coches KM 0 en Madrid] SEAT Arona 1.0 TSI S&S Style 85 kW (115 CV) 11 km 2026 Gasolina 115 CV Manual Negro Precio financiado 18.890 € Precio contado 19.890 € Móstoles Tel. 911677291
@@ -556,7 +556,6 @@ Mostrar 108 coches Cerrar
 [Coches KM 0 en Madrid] Opel Corsa 1.2 Turbo XHL Hybrid Edition eDCT 81 kW (110 CV) 15 km 2025 Gasolina 110 CV Automático Negro Precio financiado 16.091 € Precio contado 17.490 € Tel. 911670817
 [Coches KM 0 en Madrid] Opel Corsa 1.2 Turbo XHL Hybrid Edition eDCT 81 kW (110 CV) 10 km 2025 Gasolina 110 CV Automático Gris Precio financiado 16.091 € Precio contado 17.490 € Tel. 911670817
 [Coches KM 0 en Madrid] Opel Corsa 1.2 Turbo XHL Hybrid Edition eDCT 81 kW (110 CV) 10 km 2025 Gasolina 110 CV Automático Negro Precio financiado 16.091 € Precio contado 17.490 € Tel. 911670817
-[Coches KM 0 en Madrid] Opel Corsa 1.2 Turbo XHL Hybrid Edition eDCT 81 kW (110 CV) 14 km 2025 Gasolina 110 CV Automático Azul Precio financiado 16.091 € Precio contado 17.490 € Tel. 911670817
 [Coches KM 0 en Madrid] ¡Descuento especial! Solo hasta el 31/10 Fiat Tipo 1.0 GSE 73 kW (100 CV) 13 km 2025 Gasolina 101 CV Manual Rojo Precio financiado 17.471 € Precio contado 18.990 € Tel. 911670817
 [Coches KM 0 en Madrid] Fiat 600e Red 54kwh 115 kW (156 CV) 10 km 2025 Eléctrico 156 CV Automático Rojo Precio financiado 20.990 € Precio contado 22.990 € Tel. 911670817
 [Coches KM 0 en Madrid] Fiat 600e Red 54kwh 115 kW (156 CV) 4 km 2025 Eléctrico 156 CV Automático Rojo Precio financiado 20.231 € Precio contado 21.990 € Tel. 911670817
