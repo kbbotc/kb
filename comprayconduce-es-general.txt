@@ -169,8 +169,8 @@ Cómo llegar
 
 # Coches Ocasión | Compra y Conduce
 
-599 Vehículos encontrados
-Mostrar 599 coches Cerrar
+597 Vehículos encontrados
+Mostrar 597 coches Cerrar
 Filtrar
 Si estás pensando comprar tu coche ocasión por localidad, te facilitamos nuestra exclusiva selección de vehículos para ti.
 ¡Ven a visitarnos!
@@ -515,7 +515,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.0G Longitude 4x2 88 kW (120 CV) 68.390 km 2022 Gasolina 120 CV Manual Blanco Precio financiado 13.990 € Precio contado 14.990 € Logroño Tel. 941258248
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.0G Limited 4x2 88 kW (120 CV) 68.490 km 2022 Gasolina 120 CV Manual Gris Precio financiado 13.990 € Precio contado 14.990 € Logroño Tel. 941258248
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 JAECOO 7 1.6 TGDI Select FWD 108 kW (145 CV) 13.378 km 2025 Gasolina 147 CV Automático Azul Precio financiado 22.990 € Precio contado 25.490 € Logroño Tel. 941258248
-[Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Tonale 1.6 DS Veloce Auto 96 kW (130 CV) 13.961 km 2024 Diésel 130 CV Automático Negro Precio financiado 25.990 € Precio contado 27.490 € Logroño Tel. 941258248
 [Coches Ocasión] BMW X1 xDrive20d 135 kW (184 CV) 146.110 km 2013 Diésel 184 CV Automático Gris Precio financiado 12.411 € Precio contado 13.490 € Tel. 911670817
 [Coches Ocasión] Suzuki Across 2.5 PHEV 4WD 225 kW (306 CV) 1 km 2024 Híbrido Electro/Gasolina 306 CV Automático Azul Precio financiado 52.900 € Precio contado 52.900 € MUTILVA BAJA Tel. 948382173
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 JAECOO 7 1.6 TGDI Select FWD 108 kW (145 CV) 12.634 km 2025 Gasolina 147 CV Automático Blanco Precio financiado 22.990 € Precio contado 25.490 € Logroño Tel. 941258248
@@ -669,7 +668,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] Mercedes-Benz GLA 180 90 kW (122 CV) 61.673 km 2020 Gasolina 122 CV Automático Blanco Precio financiado 20.231 € Precio contado 21.990 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Mercedes-Benz CLA Shooting Brake CLA 200 d 110 kW (150 CV) 59.404 km 2020 Diésel 150 CV Automático Amarillo Precio financiado 22.531 € Precio contado 24.490 € Móstoles Tel. 911677291
 [Coches Ocasión] Mercedes-Benz GLA 200 d 100 kW (136 CV) 50.642 km 2020 Diésel 136 CV Automático Gris Precio financiado 23.911 € Precio contado 25.990 € Tel. 911670817
-[Coches Ocasión] Mercedes-Benz Clase A 200 120 kW (163 CV) 86.205 km 2021 Gasolina 163 CV Automático Blanco Precio financiado 22.991 € Precio contado 24.990 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Maserati Grecale 2.0 MHEV GT L4 AWD 221 kW (300 CV) 150 km 2022 Gasolina 300 CV Automático Gris Precio financiado 67.990 € Precio contado 71.990 € Pamplona Tel. 948143435
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Maserati Grecale 2.0 MHEV GT L4 AWD 221 kW (300 CV) 71 km 2022 Gasolina 300 CV Automático Negro Precio financiado 62.551 € Precio contado 67.990 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Maserati Grecale 2.0 MHEV GT L4 AWD 221 kW (300 CV) 45 km 2022 Gasolina 300 CV Automático Negro Precio financiado 62.551 € Precio contado 67.990 € Móstoles Tel. 911677291
@@ -701,7 +699,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Gladiator 3.0 Ds Overland 4wd 194 kW (264 CV) 41 km 2021 Diésel 264 CV Automático Marrón Precio financiado 57.031 € Precio contado 61.990 € Tel. 911670817
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Grand Cherokee 2.0 PHEV Overland 4xe 280 kW (381 CV) 45.000 km 2023 Híbrido Electro/Gasolina 381 CV Automático Blanco Precio financiado 59.990 € Precio contado 64.990 € Logroño Tel. 941258248
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 72.327 km 2022 Híbrido Electro/Gasolina 240 CV Automático Rojo Precio financiado 15.171 € Precio contado 16.490 € Móstoles Tel. 911677291
-[Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 81.967 km 2021 Híbrido Electro/Gasolina 240 CV Automático Verde Precio financiado 13.791 € Precio contado 14.990 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Compass 1.6 Multijet Limited 4x2 96 kW (130 CV) 80.123 km 2022 Diésel 130 CV Manual Gris Precio financiado 14.711 € Precio contado 15.990 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 77.000 km 2022 Híbrido Electro/Gasolina 240 CV Automático Blanco Precio financiado 15.171 € Precio contado 16.490 € Móstoles Tel. 911677291
 [Coches Ocasión] Hyundai Tucson 1.7 CRDI BlueDrive Tecno DCT 103 kW (141 CV) 95.645 km 2018 Diésel 141 CV Automático Blanco Precio financiado 16.551 € Precio contado 17.990 € Tel. 911670817
@@ -741,7 +738,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 DS DS3 PureTech 100 Performance Line 73 kW (100 CV) 75.673 km 2020 Gasolina 100 CV Manual Blanco Precio financiado 14.990 € Precio contado 15.990 € Sevilla Tel. 854624425
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 DS DS3 Crossback PureTech 130 Grand Chic EAT8 96 kW (130 CV) 77.257 km 2020 Gasolina 130 CV Automático Amarillo Precio financiado 14.990 € Precio contado 15.990 € No hay teléfono
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 DS DS3 PureTech 130 Performance Line 96 kW (130 CV) 75.508 km 2020 Gasolina 130 CV Automático Azul Precio financiado 11.951 € Precio contado 12.990 € Tel. 911670817
-[Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 DS DS7 Crossback PureTech 130 So Chic Auto 96 kW (130 CV) 55.177 km 2021 Gasolina 131 CV Automático Azul Precio financiado 17.011 € Precio contado 18.490 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 DS DS7 Crossback BlueHDi 130 DE Performance Line AT 96 kW (130 CV) 8.000 km 2022 Diésel 130 CV Automático Beige Precio financiado 23.990 € Precio contado 25.990 € Móstoles Tel. 911677291
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 DS DS7 Crossback PureTech 130 Performance Line Auto 96 kW (130 CV) 70.000 km 2021 Gasolina 131 CV Automático Negro Precio financiado 19.990 € Precio contado 20.990 € Tel. 913341520
 [Coches Ocasión] ¡Descuento especial! Solo hasta el 31/10 DS DS7 Crossback BlueHDi 130 DE Performance Line AT 96 kW (130 CV) 54.372 km 2020 Diésel 130 CV Automático Negro Precio financiado 17.931 € Precio contado 19.490 € Móstoles Tel. 911677291

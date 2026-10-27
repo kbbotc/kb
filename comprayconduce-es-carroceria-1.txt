@@ -214,8 +214,8 @@ Mostrar 12 coches Cerrar
 
 # Coches SUV Ocasión | Compra y Conduce
 
-359 Vehículos encontrados
-Mostrar 359 coches Cerrar
+358 Vehículos encontrados
+Mostrar 358 coches Cerrar
 
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Stelvio 2.2 Diesel Sprint RWD 118 kW (160 CV) 85.030 km 2022 Diésel 160 CV Automático Rojo Precio financiado 17.931 € Precio contado 19.490 € Tel. 911670817
 [Coches SUV Ocasión] SEAT Arona 1.0 TSI S&S Style 85 kW (115 CV) 10 km 2026 Gasolina 115 CV Manual Gris Precio financiado 18.890 € Precio contado 19.890 € Móstoles Tel. 911677291
@@ -418,7 +418,6 @@ Mostrar 359 coches Cerrar
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.0G Longitude 4x2 88 kW (120 CV) 68.390 km 2022 Gasolina 120 CV Manual Blanco Precio financiado 13.990 € Precio contado 14.990 € Logroño Tel. 941258248
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Renegade 1.0G Limited 4x2 88 kW (120 CV) 68.490 km 2022 Gasolina 120 CV Manual Gris Precio financiado 13.990 € Precio contado 14.990 € Logroño Tel. 941258248
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 JAECOO 7 1.6 TGDI Select FWD 108 kW (145 CV) 13.378 km 2025 Gasolina 147 CV Automático Azul Precio financiado 22.990 € Precio contado 25.490 € Logroño Tel. 941258248
-[Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Tonale 1.6 DS Veloce Auto 96 kW (130 CV) 13.961 km 2024 Diésel 130 CV Automático Negro Precio financiado 25.990 € Precio contado 27.490 € Logroño Tel. 941258248
 [Coches SUV Ocasión] BMW X1 xDrive20d 135 kW (184 CV) 146.110 km 2013 Diésel 184 CV Automático Gris Precio financiado 12.411 € Precio contado 13.490 € Tel. 911670817
 [Coches SUV Ocasión] Suzuki Across 2.5 PHEV 4WD 225 kW (306 CV) 1 km 2024 Híbrido Electro/Gasolina 306 CV Automático Azul Precio financiado 52.900 € Precio contado 52.900 € MUTILVA BAJA Tel. 948382173
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 JAECOO 7 1.6 TGDI Select FWD 108 kW (145 CV) 12.634 km 2025 Gasolina 147 CV Automático Blanco Precio financiado 22.990 € Precio contado 25.490 € Logroño Tel. 941258248
