@@ -1,4 +1,4 @@
-Información actualizada el 27/10/2026.
+Información actualizada el 28/10/2026.
 
 
 # Coches Utilitario Ocasión | Compra y Conduce
@@ -19,8 +19,8 @@ Mostrar 9 coches Cerrar
 
 # Coches Compacto Ocasión | Compra y Conduce
 
-92 Vehículos encontrados
-Mostrar 92 coches Cerrar
+91 Vehículos encontrados
+Mostrar 91 coches Cerrar
 
 [Coches Compacto Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 42.639 km 2023 Gasolina 70 CV Manual Blanco Precio financiado 9.490 € Precio contado 10.490 € Tel. 911670817
 [Coches Compacto Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 14.219 km 2024 Gasolina 70 CV Manual Blanco Precio financiado 10.990 € Precio contado 11.990 € Tel. 911670817
@@ -29,7 +29,6 @@ Mostrar 92 coches Cerrar
 [Coches Compacto Ocasión] Toyota Yaris 120H Active Tech 85 kW (116 CV) 89.083 km 2022 Híbrido Electro/Gasolina 116 CV Automático Blanco Precio financiado 14.990 € Precio contado 15.990 € Tel. 911670817
 [Coches Compacto Ocasión] Dacia Sandero Stepway Comfort TCe 67 kW (91 CV) CVT 48.407 km 2022 Gasolina 91 CV Automático Rojo Precio financiado 13.990 € Precio contado 14.990 € Tel. 911670817
 [Coches Compacto Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 43.210 km 2023 Gasolina 70 CV Manual Blanco Precio financiado 9.375 € Precio contado 10.190 € Tel. 911670817
-[Coches Compacto Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 56.920 km 2023 Gasolina 70 CV Manual Blanco Precio financiado 8.731 € Precio contado 9.490 € Móstoles Tel. 911677291
 [Coches Compacto Ocasión] SEAT León 1.5 TSI S&S FR 110 kW (150 CV) 92.145 km 2021 Gasolina 150 CV Manual Gris Precio financiado 16.091 € Precio contado 17.490 € Móstoles Tel. 911677291
 [Coches Compacto Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 30.516 km 2023 Gasolina 70 CV Manual Blanco Precio financiado 9.651 € Precio contado 10.490 € Tel. 911670817
 [Coches Compacto Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 16.795 km 2023 Gasolina 70 CV Manual Negro Precio financiado 10.387 € Precio contado 11.290 € Tel. 911670817
@@ -214,8 +213,8 @@ Mostrar 12 coches Cerrar
 
 # Coches SUV Ocasión | Compra y Conduce
 
-358 Vehículos encontrados
-Mostrar 358 coches Cerrar
+357 Vehículos encontrados
+Mostrar 357 coches Cerrar
 
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Stelvio 2.2 Diesel Sprint RWD 118 kW (160 CV) 85.030 km 2022 Diésel 160 CV Automático Rojo Precio financiado 17.931 € Precio contado 19.490 € Tel. 911670817
 [Coches SUV Ocasión] SEAT Arona 1.0 TSI S&S Style 85 kW (115 CV) 10 km 2026 Gasolina 115 CV Manual Gris Precio financiado 18.890 € Precio contado 19.890 € Móstoles Tel. 911677291
@@ -331,7 +330,6 @@ Mostrar 358 coches Cerrar
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 Jeep Avenger 1.2 G Altitude 74 kW (100 CV) 2 km 2025 Gasolina 100 CV Manual Amarillo Precio financiado 18.851 € Precio contado 20.490 € Móstoles Tel. 911677291
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 Alfa Romeo Tonale 1,6 DS Tributo Italiano 96 kW (130 CV) 16.758 km 2024 Diésel 130 CV Automático Gris Precio financiado 25.751 € Precio contado 27.990 € Tel. 911670817
 [Coches SUV Ocasión] Peugeot 5008 BlueHDi 120 S&S Allure 88 kW (120 CV) 149.787 km 2017 Diésel 120 CV Manual Blanco Precio financiado 12.871 € Precio contado 13.990 € Tel. 911670817
-[Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 OMODA 5 1.6 T-GDI Comfort 108 kW (145 CV) 3 km 2025 Gasolina 147 CV Automático Blanco Precio financiado 21.427 € Precio contado 23.290 € Móstoles Tel. 911677291
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 Polestar 4 Long Range Single Motor 200 kW (272 CV) 17.056 km 2024 Eléctrico 272 CV Automático Blanco Precio financiado 40.931 € Precio contado 44.490 € Tel. 911670817
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 JAECOO 7 1.6 TGDI Exclusive AWD 108 kW (145 CV) 3.161 km 2025 Gasolina 147 CV Automático Blanco Precio financiado 28.971 € Precio contado 31.490 € Tel. 911670817
 [Coches SUV Ocasión] ¡Descuento especial! Solo hasta el 31/10 OMODA 5 EV 61kWh Premium 150 kW (204 CV) 31.434 km 2024 Eléctrico 204 CV Automático Blanco Precio financiado 26.211 € Precio contado 28.490 € Tel. 911670817
