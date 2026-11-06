@@ -1,4 +1,4 @@
-Información actualizada el 05/11/2026.
+Información actualizada el 06/11/2026.
 
 
 # Coches Utilitario Ocasión | Compra y Conduce
@@ -35,7 +35,6 @@ Mostrar 83 coches Cerrar
 [Coches Compacto Ocasión] SEAT Mii 1.0 Style 44 kW (60 CV) 39.941 km 2013 Gasolina 60 CV Manual Azul Precio financiado 5.971 € Precio contado 6.490 € Móstoles Tel. 911677291
 [Coches Compacto Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 10 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 13.290 € Precio contado 15.790 € Logroño Tel. 941258248
 [Coches Compacto Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 4 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 14.251 € Precio contado 15.490 € Tel. 911670817
-[Coches Compacto Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 5 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 14.251 € Precio contado 15.490 € Móstoles Tel. 911677291
 [Coches Compacto Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 5 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 14.251 € Precio contado 15.490 € Tel. 911670817
 [Coches Compacto Ocasión] Toyota Yaris 70 Active 51 kW (69 CV) 120.493 km 2014 Gasolina 69 CV Manual Blanco Precio financiado 6.891 € Precio contado 7.490 € Móstoles Tel. 911677291
 [Coches Compacto Ocasión] Opel Corsa 1.2 Turbo XHL GS-Line 74 kW (100 CV) 43.212 km 2022 Gasolina 100 CV Manual Negro Precio financiado 10.111 € Precio contado 10.990 € Móstoles Tel. 911677291
@@ -133,7 +132,7 @@ Mostrar 71 coches Cerrar
 [Coches Berlina Ocasión] DS DS4 Étoile Alcantara BlueHDi 96 kW (130 CV) 12.571 km 2024 Diésel 130 CV Automático Gris Precio financiado 21.059 € Precio contado 22.890 € Móstoles Tel. 911677291
 [Coches Berlina Ocasión] DS DS4 Étoile Alcantara BlueHDi 96 kW (130 CV) 12.458 km 2024 Diésel 130 CV Automático Gris Plata Precio financiado 21.059 € Precio contado 22.890 € Tel. 911670817
 [Coches Berlina Ocasión] DS DS4 Étoile Alcantara BlueHDi 96 kW (130 CV) 13.997 km 2024 Diésel 130 CV Automático Gris Precio financiado 21.059 € Precio contado 22.890 € Tel. 911670817
-[Coches Berlina Ocasión] DS DS4 Étoile Alcantara BlueHDi 96 kW (130 CV) 12.204 km 2024 Diésel 130 CV Automático Gris Plata Precio financiado 21.059 € Precio contado 22.890 € Móstoles Tel. 911677291
+[Coches Berlina Ocasión] DS DS4 Étoile Alcantara BlueHDi 96 kW (130 CV) 12.204 km 2024 Diésel 130 CV Automático Gris Plata Precio financiado 21.059 € Precio contado 22.890 € Tel. 911670817
 [Coches Berlina Ocasión] Opel Astra 1.6T Hybrid PHEV GS Auto 132 kW (180 CV) 1.051 km 2025 Híbrido Electro/Gasolina 180 CV Automático Rojo Precio financiado 24.831 € Precio contado 26.990 € Tel. 911670817
 [Coches Berlina Ocasión] Citroen ë-C4 X 50KWh eléctrico Plus 100 kW (136 CV) 4 km 2025 136 CV Automático Gris Precio financiado 19.771 € Precio contado 21.490 € Tel. 911670817
 [Coches Berlina Ocasión] Lexus ES 300h Premium 160 kW (218 CV) 50.898 km 2022 Híbrido Electro/Gasolina 218 CV Automático Azul Precio financiado 32.191 € Precio contado 34.990 € Tel. 911670817
