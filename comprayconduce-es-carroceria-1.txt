@@ -28,7 +28,7 @@ Mostrar 83 coches Cerrar
 [Coches Compacto Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 14.219 km 2024 Gasolina 70 CV Manual Blanco Precio financiado 10.990 € Precio contado 11.990 € Tel. 911670817
 [Coches Compacto Ocasión] Dacia Sandero Laureate 1.2 55 kW (75 CV) 90.350 km 2011 Gasolina 75 CV Manual Azul Precio financiado 4.990 € Precio contado 4.990 € Móstoles Tel. 911677291
 [Coches Compacto Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 30.929 km 2023 Gasolina 70 CV Manual Negro Precio financiado 9.990 € Precio contado 10.890 € Tel. 911670817
-[Coches Compacto Ocasión] Renault Kadjar TCe 130 Intens Energy 96 kW (130 CV) 131.844 km 2017 Gasolina 130 CV Manual Rojo Precio financiado 9.490 € Precio contado 10.290 € Tel. 911670817
+[Coches Compacto Ocasión] Renault Kadjar Tech Road Energy TCe 96 kW (130 CV) 131.844 km 2017 Gasolina 130 CV Manual Rojo Precio financiado 9.490 € Precio contado 10.290 € Tel. 911670817
 [Coches Compacto Ocasión] SEAT León 1.5 TSI S&S FR 110 kW (150 CV) 92.145 km 2021 Gasolina 150 CV Manual Gris Precio financiado 16.091 € Precio contado 17.490 € Móstoles Tel. 911677291
 [Coches Compacto Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 30.516 km 2023 Gasolina 70 CV Manual Blanco Precio financiado 9.651 € Precio contado 10.490 € Tel. 911670817
 [Coches Compacto Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 16.795 km 2023 Gasolina 70 CV Manual Negro Precio financiado 10.387 € Precio contado 11.290 € Tel. 911670817
@@ -116,7 +116,6 @@ Mostrar 71 coches Cerrar
 [Coches Berlina Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 4 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 14.251 € Precio contado 15.490 € Tel. 911670817
 [Coches Berlina Ocasión] Kia Ceed 1.6 MHEV iMT Drive 100 kW (136 CV) 58.768 km 2023 Diésel 136 CV Manual Negro Precio financiado 17.011 € Precio contado 18.490 € Móstoles Tel. 911677291
 [Coches Berlina Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 5 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 14.251 € Precio contado 15.490 € Tel. 911670817
-[Coches Berlina Ocasión] Mercedes-Benz Clase E E 300 BT Hybrid Avantgarde Plus 170 kW (231 CV) 118.300 km 2014 Diésel 231 CV Automático Gris Plata Precio financiado 15.171 € Precio contado 16.490 € Móstoles Tel. 911677291
 [Coches Berlina Ocasión] Fiat Tipo 1.0 Cross 74 kW (101 CV) 112.182 km 2022 Gasolina 101 CV Manual Gris Precio financiado 8.731 € Precio contado 9.490 € Móstoles Tel. 911677291
 [Coches Berlina Ocasión] Dacia Sandero Base 1.0 54 kW (73 CV) 55.000 km 2018 Gasolina 73 CV Manual Negro Precio financiado 8.271 € Precio contado 8.990 € Móstoles Tel. 911677291
 [Coches Berlina Ocasión] Fiat Tipo 1.3 Multijet II Pop 70 kW (95 CV) 100.006 km 2019 Diésel 95 CV Manual Gris Precio financiado 7.811 € Precio contado 8.490 € Móstoles Tel. 911677291
@@ -127,6 +126,7 @@ Mostrar 71 coches Cerrar
 [Coches Berlina Ocasión] Suzuki SX4 1.9 DDIS GLX 88 kW (120 CV) 140.215 km 2007 Diésel 120 CV Manual Azul Precio financiado 5.511 € Precio contado 5.990 € Móstoles Tel. 911677291
 [Coches Berlina Ocasión] Peugeot 508 PureTech 130 Active Pack EAT8 96 kW (130 CV) 23.242 km 2022 Gasolina 131 CV Automático Azul Precio financiado 16.990 € Precio contado 18.490 € Sevilla Tel. 854624425
 [Coches Berlina Ocasión] Citroen C-Elysee HDi 90 Seduction 68 kW (92 CV) 127.815 km 2014 Diésel 92 CV Manual Azul Precio financiado 6.990 € Precio contado 6.990 € Móstoles Tel. 911677291
+[Coches Berlina Ocasión] Renault Megane Bose Tce GPF 103 kW (140 CV) EDC 124.640 km 2019 Gasolina 140 CV Automático Azul Precio financiado 10.111 € Precio contado 10.990 € Móstoles Tel. 911677291
 [Coches Berlina Ocasión] DS DS 9 E-Tense 250 Rivoli+ 184 kW (250 CV) 41.593 km 2023 Híbrido Electro/Gasolina 250 CV Automático Azul Precio financiado 25.751 € Precio contado 27.990 € Móstoles Tel. 911677291
 [Coches Berlina Ocasión] Peugeot 308 Allure Hybrid PHEV e-DCT7 143 kW (195 CV) 5 km 2026 Híbrido Electro/Gasolina 195 CV Automático Verde Precio financiado 25.291 € Precio contado 27.490 € Tel. 911670817
 [Coches Berlina Ocasión] DS DS4 Étoile Alcantara BlueHDi 96 kW (130 CV) 12.571 km 2024 Diésel 130 CV Automático Gris Precio financiado 21.059 € Precio contado 22.890 € Móstoles Tel. 911677291
@@ -202,20 +202,23 @@ Mostrar 12 coches Cerrar
 
 # Coches SUV Ocasión | Compra y Conduce
 
-360 Vehículos encontrados
-Mostrar 360 coches Cerrar
+359 Vehículos encontrados
+Mostrar 359 coches Cerrar
 
-[Coches SUV Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 96.833 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 13.791 € Precio contado 14.990 € Tel. 911670817
+[Coches SUV Ocasión] BMW X1 sDrive20d 130 kW (177 CV) 142.620 km 2010 Diésel 177 CV Manual Blanco Precio financiado 10.990 € Precio contado 10.990 € Tel. 911670817
+[Coches SUV Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 77.533 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 15.171 € Precio contado 16.490 € Tel. 911670817
+[Coches SUV Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 96.833 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Plata Precio financiado 13.791 € Precio contado 14.990 € Tel. 911670817
 [Coches SUV Ocasión] Jeep Renegade 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 114.976 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 13.331 € Precio contado 14.490 € Tel. 911670817
 [Coches SUV Ocasión] Jeep Renegade 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 130.452 km 2022 Híbrido Electro/Gasolina 240 CV Automático Blanco Precio financiado 12.411 € Precio contado 13.490 € Tel. 911670817
+[Coches SUV Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 73.533 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 15.171 € Precio contado 16.490 € Tel. 911670817
 [Coches SUV Ocasión] Alfa Romeo Tonale 1.5 MHEV Sprint FWD 96 kW (130 CV) 91.105 km 2022 Gasolina 130 CV Automático Gris Precio financiado 15.447 € Precio contado 16.790 € Tel. 911670817
-[Coches SUV Ocasión] Alfa Romeo Stelvio 2.2 Diesel Sprint AWD 140 kW (190 CV) 95.380 km 2022 Diésel 190 CV Automático Gris Precio financiado 20.490 € Precio contado 21.490 € Tel. 911670817
-[Coches SUV Ocasión] Mitsubishi Eclipse Cross PHEV Kaiteki+ 4WD 138 kW (188 CV) 47.843 km 2023 Híbrido Electro/Gasolina 188 CV Automático Blanco Precio financiado 20.490 € Precio contado 22.490 € Tel. 911670817
+[Coches SUV Ocasión] Alfa Romeo Stelvio 2.2 Diesel Sprint AWD 140 kW (190 CV) 95.380 km 2022 Diésel 190 CV Automático Negro Precio financiado 20.490 € Precio contado 21.490 € Tel. 911670817
+[Coches SUV Ocasión] Mitsubishi Eclipse Cross 2.4 PHEV Kaiteki+ 4WD Auto 138 kW (188 CV) 47.843 km 2023 Híbrido Electro/Gasolina 188 CV Automático Blanco Precio financiado 20.490 € Precio contado 22.490 € Tel. 911670817
 [Coches SUV Ocasión] Jeep Compass 1.5 MHEV eHybrid Longitude DCT 96 kW (130 CV) 104.444 km 2022 Gasolina 130 CV Automático Blanco Precio financiado 14.711 € Precio contado 15.990 € Tel. 911670817
 [Coches SUV Ocasión] Jeep Compass 1.6 Multijet Limited 4x2 96 kW (130 CV) 70.385 km 2022 Diésel 130 CV Manual Blanco Precio financiado 14.711 € Precio contado 15.990 € Tel. 911670817
 [Coches SUV Ocasión] Hyundai Tucson 2.0 CRDI Style 103 kW (140 CV) 144.939 km 2006 Diésel 140 CV Manual Negro Precio financiado 6.790 € Precio contado 6.790 € Logroño Tel. 941258248
-[Coches SUV Ocasión] MG ZS 1.5 Luxury 78 kW (106 CV) 6.889 km 2025 Híbrido Electro/Gasolina 106 CV Automático Gris Plata Precio financiado 18.490 € Precio contado 19.490 € Logroño Tel. 941258248
-[Coches SUV Ocasión] Land Rover Range Rover Evoque D150 R-Dynamic FWD 110 kW (150 CV) 101.473 km 2020 Diésel 150 CV Manual Blanco Precio financiado 16.390 € Precio contado 17.890 € Logroño Tel. 941258248
+[Coches SUV Ocasión] MG ZS 1.5 Hybrid+ Luxury 145 kW (197 CV) 6.889 km 2025 Híbrido Electro/Gasolina 197 CV Automático Gris Plata Precio financiado 18.490 € Precio contado 19.490 € Logroño Tel. 941258248
+[Coches SUV Ocasión] Land Rover Range Rover Evoque D150 Standard FWD 110 kW (150 CV) 101.473 km 2020 Diésel 150 CV Manual Blanco Precio financiado 16.390 € Precio contado 17.890 € Logroño Tel. 941258248
 [Coches SUV Ocasión] Ssangyong Tivoli G16 Line 4x2 94 kW (128 CV) 92.980 km 2017 Gasolina 128 CV Manual Negro Precio financiado 8.990 € Precio contado 9.990 € Logroño Tel. 941258248
 [Coches SUV Ocasión] Alfa Romeo Stelvio 2.2 Diesel Sprint RWD 118 kW (160 CV) 85.030 km 2022 Diésel 160 CV Automático Rojo Precio financiado 17.931 € Precio contado 19.490 € Tel. 911670817
 [Coches SUV Ocasión] SEAT Arona 1.0 TSI S&S Style 85 kW (115 CV) 10 km 2026 Gasolina 115 CV Manual Gris Precio financiado 18.890 € Precio contado 19.890 € Móstoles Tel. 911677291
@@ -225,7 +228,7 @@ Mostrar 360 coches Cerrar
 [Coches SUV Ocasión] Alfa Romeo Stelvio 2.0 Gasolina Sprint Q4 Auto 148 kW (200 CV) 77.076 km 2022 200 CV Automático Negro Precio financiado 23.990 € Precio contado 25.990 € Tel. 911670817
 [Coches SUV Ocasión] Jeep Compass 1.5 MHEV eHybrid Longitude DCT 96 kW (130 CV) 110.050 km 2022 Gasolina 130 CV Automático Rojo Precio financiado 14.711 € Precio contado 15.990 € Tel. 911670817
 [Coches SUV Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 64.520 km 2022 Híbrido Electro/Gasolina 240 CV Automático Rojo Precio financiado 16.091 € Precio contado 17.490 € Tel. 911670817
-[Coches SUV Ocasión] Renault Kadjar TCe 130 Intens Energy 96 kW (130 CV) 131.844 km 2017 Gasolina 130 CV Manual Rojo Precio financiado 9.490 € Precio contado 10.290 € Tel. 911670817
+[Coches SUV Ocasión] Renault Kadjar Tech Road Energy TCe 96 kW (130 CV) 131.844 km 2017 Gasolina 130 CV Manual Rojo Precio financiado 9.490 € Precio contado 10.290 € Tel. 911670817
 [Coches SUV Ocasión] Jeep Renegade 1.3 PHEV S AWD AT 177 kW (240 CV) 128.548 km 2022 Híbrido Electro/Gasolina 240 CV Automático Negro Precio financiado 12.687 € Precio contado 13.790 € Tel. 911670817
 [Coches SUV Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 127.840 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 13.331 € Precio contado 14.490 € Tel. 911670817
 [Coches SUV Ocasión] DS DS3 Crossback PureTech Grand Chic Auto 96 kW (130 CV) 90.365 km 2020 Gasolina 130 CV Automático Violeta Precio financiado 12.871 € Precio contado 13.990 € Tel. 911670817
@@ -247,8 +250,6 @@ Mostrar 360 coches Cerrar
 [Coches SUV Ocasión] Polestar 4 Long Range Single Motor 200 kW (272 CV) 11.785 km 2025 Eléctrico 272 CV Automático Negro Precio financiado 40.931 € Precio contado 44.490 € Tel. 911670817
 [Coches SUV Ocasión] Alfa Romeo Stelvio 2.0 Gasolina Sprint+ Q4 148 kW (200 CV) 46.730 km 2021 200 CV Automático Azul Precio financiado 34.491 € Precio contado 37.490 € Tel. 911670817
 [Coches SUV Ocasión] Peugeot 2008 Puretech 100 S&S Active Pack 75 kW (100 CV) 6 km 2023 Gasolina 100 CV Manual Rojo Precio financiado 14.711 € Precio contado 15.990 € Tel. 911670817
-[Coches SUV Ocasión] Fiat 500X 1.0 Firefly S&S Connect 88 kW (120 CV) 71.637 km 2022 Gasolina 120 CV Manual Gris Plata Precio financiado 11.031 € Precio contado 11.990 € Tel. 911670817
-[Coches SUV Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 117.947 km 2022 Híbrido Electro/Gasolina 240 CV Automático Azul Precio financiado 13.331 € Precio contado 14.490 € Tel. 911670817
 [Coches SUV Ocasión] Peugeot 2008 PureTech 130 S&S Allure 96 kW (130 CV) 4 km 2023 Gasolina 130 CV Manual Naranja Precio financiado 16.490 € Precio contado 17.990 € Tel. 911670817
 [Coches SUV Ocasión] Kia Sorento 2.2 CRDi Emotion Auto 4x4 (Pack Luxury) 147 kW (200 CV) 138.435 km 2016 Diésel 200 CV Automático Blanco Precio financiado 16.490 € Precio contado 17.990 € Logroño Tel. 941258248
 [Coches SUV Ocasión] Jeep Compass eHybrid 1.5 MHEV Longitude DCT 96 kW (130 CV) 116.830 km 2022 Gasolina 130 CV Automático Rojo Precio financiado 14.711 € Precio contado 15.990 € Tel. 911670817
@@ -259,7 +260,6 @@ Mostrar 360 coches Cerrar
 [Coches SUV Ocasión] Jeep Renegade 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 153.671 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 12.411 € Precio contado 13.490 € Tel. 911670817
 [Coches SUV Ocasión] Land Rover Range Rover Evoque 2.0L TD4 SE 4x4 110 kW (150 CV) 157.350 km 2019 Diésel 150 CV Manual Blanco Precio financiado 11.951 € Precio contado 12.990 € Móstoles Tel. 911677291
 [Coches SUV Ocasión] Nissan Juke 1.6 DIG-T Nismo 147 kW (200 CV) 168.895 km 2014 Gasolina 200 CV Manual Negro Precio financiado 9.191 € Precio contado 9.990 € Tel. 911670817
-[Coches SUV Ocasión] Toyota C-HR 1.8 125H Advance 90 kW (122 CV) 23.917 km 2022 Híbrido Electro/Gasolina 122 CV Automático Gris Precio financiado 21.151 € Precio contado 22.990 € Móstoles Tel. 911677291
 [Coches SUV Ocasión] Opel Grandland 1.2 Turbo XHT S&S GS 96 kW (130 CV) 17 km 2025 Gasolina 130 CV Manual Negro Precio financiado 22.531 € Precio contado 24.490 € Móstoles Tel. 911677291
 [Coches SUV Ocasión] BMW X3 xDrive30e 215 kW (292 CV) 154.065 km 2020 Híbrido Electro/Gasolina 292 CV Automático Azul Precio financiado 20.231 € Precio contado 21.990 € Tel. 911670817
 [Coches SUV Ocasión] Alfa Romeo Stelvio 2.2 Diesel Sprint RWD 118 kW (160 CV) 93.696 km 2022 Diésel 160 CV Automático Blanco Precio financiado 18.391 € Precio contado 19.990 € Móstoles Tel. 911677291
@@ -546,7 +546,6 @@ Mostrar 360 coches Cerrar
 [Coches SUV Ocasión] DS DS7 Crossback BlueHDi 130 DE Performance Line AT 96 kW (130 CV) 54.372 km 2020 Diésel 130 CV Automático Negro Precio financiado 17.931 € Precio contado 19.490 € Móstoles Tel. 911677291
 [Coches SUV Ocasión] DS DS3 Crossback PureTech 155 Grand Chic Auto 115 kW (155 CV) 97.000 km 2020 Gasolina 155 CV Automático Negro Precio financiado 12.871 € Precio contado 13.990 € Móstoles Tel. 911677291
 [Coches SUV Ocasión] DS DS3 Crossback BlueHDi Performance Line+ Auto 96 kW (131 CV) 5 km 2022 Diésel 130 CV Automático Gris Precio financiado 20.231 € Precio contado 21.990 € Móstoles Tel. 911677291
-[Coches SUV Ocasión] DS DS7 Crossback PureTech 225 Grand Chic 165 kW (225 CV) 48.860 km 2018 Gasolina 225 CV Automático Gris Precio financiado 17.931 € Precio contado 19.490 € Móstoles Tel. 911677291
 [Coches SUV Ocasión] DS DS3 Crossback BlueHDi 110 So Chic 81 kW (110 CV) 51.038 km 2021 Diésel 110 CV Manual Blanco Precio financiado 12.871 € Precio contado 13.990 € Tel. 911670817
 [Coches SUV Ocasión] DS DS3 BlueHDi 130 Performance Line Auto 96 kW (131 CV) 1 km 2022 Diésel 130 CV Automático Gris Precio financiado 20.231 € Precio contado 21.990 € Tel. 911670817
 [Coches SUV Ocasión] DS DS3 PureTech 130 Performance Line 96 kW (130 CV) 70.400 km 2020 Gasolina 130 CV Automático Oro Precio financiado 14.711 € Precio contado 15.990 € Tel. 911670817
