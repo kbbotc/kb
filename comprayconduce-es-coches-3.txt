@@ -1,4 +1,4 @@
-Información actualizada el 10/11/2026.
+Información actualizada el 11/11/2026.
 
 Coches en venta, parte 3 de 3. Cada línea es un coche: si es de ocasión o km 0, sus datos, precio, sede, teléfono, referencia y la dirección de su ficha.
 
