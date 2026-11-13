@@ -1,11 +1,14 @@
-Información actualizada el 12/11/2026.
+Información actualizada el 13/11/2026.
 
 
 # Coches con etiqueta 0 emisiones Ocasión | Compra y Conduce
 
-139 Vehículos encontrados
-Mostrar 139 coches Cerrar
+142 Vehículos encontrados
+Mostrar 142 coches Cerrar
 
+[Coches con etiqueta 0 emisiones Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 70.087 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Plata Precio financiado 16.091 € Precio contado 17.490 € Tel. 911670817
+[Coches con etiqueta 0 emisiones Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 65.006 km 2023 Híbrido Electro/Gasolina 240 CV Automático Rojo Precio financiado 17.931 € Precio contado 19.490 € Tel. 911670817
+[Coches con etiqueta 0 emisiones Ocasión] Jeep Renegade 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 50.248 km 2022 Híbrido Electro/Gasolina 240 CV Automático Azul Precio financiado 18.790 € Precio contado 19.790 € Tel. 911670817
 [Coches con etiqueta 0 emisiones Ocasión] Jeep Compass 1.3 PHEV S AWD AT 177 kW (240 CV) 92.172 km 2021 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 13.607 € Precio contado 14.790 € Tel. 911670817
 [Coches con etiqueta 0 emisiones Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 77.533 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 15.171 € Precio contado 16.490 € Tel. 911670817
 [Coches con etiqueta 0 emisiones Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 96.833 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Plata Precio financiado 13.791 € Precio contado 14.990 € Tel. 911670817
@@ -151,6 +154,7 @@ Mostrar 139 coches Cerrar
 97 Vehículos encontrados
 Mostrar 97 coches Cerrar
 
+[Coches con etiqueta ECO Ocasión] Jeep Compass 1.5 MHEV Limited DCT 96 kW (130 CV) 91.902 km 2022 Gasolina 130 CV Automático Verde Precio financiado 14.990 € Precio contado 15.990 € Tel. 911670817
 [Coches con etiqueta ECO Ocasión] Jeep Compass 1.5 MHEV eHybrid Longitude DCT 96 kW (130 CV) 101.791 km 2022 Gasolina 130 CV Automático Blanco Precio financiado 14.990 € Precio contado 15.990 € Tel. 911670817
 [Coches con etiqueta ECO Ocasión] Fiat 500 1.0 Hybrid Dolcevita 51 kW (70 CV) 33.800 km 2023 Gasolina 70 CV Manual Azul Precio financiado 9.990 € Precio contado 10.890 € Logroño Tel. 941258248
 [Coches con etiqueta ECO Ocasión] Opel Corsa 1.2T XHL Hybrid Edition eDCT 81 kW (110 CV) 5 km 2025 Gasolina 110 CV Automático Blanco Precio financiado 16.091 € Precio contado 17.490 € Tel. 911670817
@@ -162,7 +166,6 @@ Mostrar 97 coches Cerrar
 [Coches con etiqueta ECO Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 14.219 km 2024 Gasolina 70 CV Manual Blanco Precio financiado 10.990 € Precio contado 11.990 € Tel. 911670817
 [Coches con etiqueta ECO Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 30.929 km 2023 Gasolina 70 CV Manual Negro Precio financiado 9.990 € Precio contado 10.890 € Tel. 911670817
 [Coches con etiqueta ECO Ocasión] Jeep Compass 1.5 MHEV eHybrid Longitude DCT 96 kW (130 CV) 110.050 km 2022 Gasolina 130 CV Automático Rojo Precio financiado 14.711 € Precio contado 15.990 € Tel. 911670817
-[Coches con etiqueta ECO Ocasión] Fiat 500 1.0 Hybrid Monotrim 51 kW (70 CV) 16.795 km 2023 Gasolina 70 CV Manual Negro Precio financiado 10.387 € Precio contado 11.290 € Tel. 911670817
 [Coches con etiqueta ECO Ocasión] Fiat 600 1.2 MHEV La prima DDCT 100 kW (136 CV) 10 km 2024 Gasolina 136 CV Automático Azul Precio financiado 19.990 € Precio contado 21.990 € Logroño Tel. 941258248
 [Coches con etiqueta ECO Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 10 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 13.290 € Precio contado 15.790 € Logroño Tel. 941258248
 [Coches con etiqueta ECO Ocasión] Fiat Panda 1.0 Hybrid Pandina 51 kW (70 CV) 4 km 2025 Gasolina 70 CV Manual Blanco Precio financiado 14.251 € Precio contado 15.490 € Tel. 911670817
@@ -250,9 +253,12 @@ Mostrar 97 coches Cerrar
 
 # Coches con etiqueta C Ocasión | Compra y Conduce
 
-322 Vehículos encontrados
-Mostrar 322 coches Cerrar
+325 Vehículos encontrados
+Mostrar 325 coches Cerrar
 
+[Coches con etiqueta C Ocasión] Jeep Renegade 1.4 Multiair Limited 4x2 103 kW (140 CV) 73.122 km 2018 Gasolina 140 CV Manual Blanco Precio financiado 10.490 € Precio contado 11.490 € Tel. 911670817
+[Coches con etiqueta C Ocasión] Jeep Compass 1.6 Multijet Limited 4x2 96 kW (130 CV) 90.283 km 2022 Diésel 130 CV Manual Azul Precio financiado 14.251 € Precio contado 15.490 € Tel. 911670817
+[Coches con etiqueta C Ocasión] Alfa Romeo Stelvio 2.2 Diesel TI Q4 AWD 154 kW (210 CV) 23.583 km 2022 Diésel 210 CV Automático Azul Precio financiado 28.490 € Precio contado 30.990 € Tel. 911670817
 [Coches con etiqueta C Ocasión] Ford Fiesta 1.25 Duratec Trend 60 kW (82 CV) 98.285 km 2017 Gasolina 82 CV Manual Azul Precio financiado 6.990 € Precio contado 7.490 € Tel. 911670817
 [Coches con etiqueta C Ocasión] Fiat 500X 1.6 MultiJet Cross 4x2 96 KW (130 CV) 89.681 km 2022 Diésel 130 CV Manual Gris Precio financiado 10.990 € Precio contado 11.990 € Tel. 911670817
 [Coches con etiqueta C Ocasión] DS DS7 BlueHDi 130 Pallas AT 96 kW (130 CV) 14 km 2025 Diésel 130 CV Automático Blanco Precio financiado 33.990 € Precio contado 36.990 € Logroño Tel. 941258248
@@ -333,7 +339,6 @@ Mostrar 322 coches Cerrar
 [Coches con etiqueta C Ocasión] Peugeot 2008 PureTech 130 S&S Allure 96 kW (130 CV) 5 km 2023 Gasolina 130 CV Manual Gris Precio financiado 14.987 € Precio contado 16.290 € Tel. 911670817
 [Coches con etiqueta C Ocasión] Fiat 500X 1.6 MultiJet Cross 4x2 96 KW (130 CV) 71.515 km 2022 Diésel 130 CV Manual Gris Precio financiado 12.490 € Precio contado 13.490 € Tel. 911670817
 [Coches con etiqueta C Ocasión] Peugeot 3008 PureTech 130 S&S Allure Pack 96 kW (130 CV) 4 km 2024 Gasolina 130 CV Manual Azul Precio financiado 18.391 € Precio contado 19.990 € Tel. 911670817
-[Coches con etiqueta C Ocasión] Peugeot Rifter BlueHDi 100 Active Pack Standard 73 kW (100 CV) 90.200 km 2022 Diésel 100 CV Manual Gris Plata Precio financiado 13.791 € Precio contado 14.990 € Tel. 911670817
 [Coches con etiqueta C Ocasión] Alfa Romeo Stelvio 2.2 Diésel Veloce Q4 Auto 154 kW (210 CV) 113.832 km 2022 210 CV Automático Negro Precio financiado 21.611 € Precio contado 23.490 € Tel. 911670817
 [Coches con etiqueta C Ocasión] Peugeot 508 PureTech 130 Active Pack EAT8 96 kW (130 CV) 23.242 km 2022 Gasolina 131 CV Automático Azul Precio financiado 15.990 € Precio contado 17.490 € Sevilla Tel. 854624425
 [Coches con etiqueta C Ocasión] Peugeot 2008 PureTech 130 S&S Allure Pack 96 kW (130 CV) 11 km 2023 Gasolina 130 CV Manual Rojo Precio financiado 15.790 € Precio contado 16.990 € Sevilla Tel. 854624425
@@ -554,6 +559,7 @@ Mostrar 322 coches Cerrar
 [Coches con etiqueta C Ocasión] DS DS7 Crossback BlueHDi 130 DE Performance Line AT 96 kW (130 CV) 54.372 km 2020 Diésel 130 CV Automático Negro Precio financiado 17.931 € Precio contado 19.490 € Móstoles Tel. 911677291
 [Coches con etiqueta C Ocasión] DS DS3 Crossback PureTech 155 Grand Chic Auto 115 kW (155 CV) 97.000 km 2020 Gasolina 155 CV Automático Negro Precio financiado 12.871 € Precio contado 13.990 € Móstoles Tel. 911677291
 [Coches con etiqueta C Ocasión] DS DS3 Crossback BlueHDi Performance Line+ Auto 96 kW (131 CV) 5 km 2022 Diésel 130 CV Automático Gris Precio financiado 20.231 € Precio contado 21.990 € Móstoles Tel. 911677291
+[Coches con etiqueta C Ocasión] DS DS7 Crossback PureTech 225 Grand Chic 165 kW (225 CV) 48.860 km 2018 Gasolina 225 CV Automático Gris Precio financiado 17.931 € Precio contado 19.490 € Móstoles Tel. 911677291
 [Coches con etiqueta C Ocasión] DS DS3 Crossback BlueHDi 110 So Chic 81 kW (110 CV) 51.038 km 2021 Diésel 110 CV Manual Blanco Precio financiado 12.871 € Precio contado 13.990 € Tel. 911670817
 [Coches con etiqueta C Ocasión] DS DS4 BlueHDi 130 Trocadero Auto 96 kW (130 CV) 80.000 km 2023 Diésel 130 CV Automático Blanco Precio financiado 16.551 € Precio contado 17.990 € Tel. 911670817
 [Coches con etiqueta C Ocasión] DS DS3 BlueHDi 130 Performance Line Auto 96 kW (131 CV) 1 km 2022 Diésel 130 CV Automático Gris Precio financiado 20.231 € Precio contado 21.990 € Tel. 911670817
@@ -579,8 +585,8 @@ Mostrar 322 coches Cerrar
 
 # Coches con etiqueta B Ocasión | Compra y Conduce
 
-22 Vehículos encontrados
-Mostrar 22 coches Cerrar
+23 Vehículos encontrados
+Mostrar 23 coches Cerrar
 
 [Coches con etiqueta B Ocasión] BMW X1 sDrive20d 130 kW (177 CV) 142.620 km 2010 Diésel 177 CV Manual Blanco Precio financiado 10.990 € Precio contado 10.990 € Tel. 911670817
 [Coches con etiqueta B Ocasión] Hyundai Tucson 2.0 CRDI Style 103 kW (140 CV) 144.939 km 2006 Diésel 140 CV Manual Negro Precio financiado 6.790 € Precio contado 6.790 € Logroño Tel. 941258248
@@ -600,6 +606,7 @@ Mostrar 22 coches Cerrar
 [Coches con etiqueta B Ocasión] Volkswagen Golf Variant Advance 1.6 TDI DPF 77 kW (105 CV) DSG 135.000 km 2012 Diésel 105 CV Automático Gris Plata Precio financiado 8.271 € Precio contado 8.990 € Móstoles Tel. 911677291
 [Coches con etiqueta B Ocasión] BMW X1 xDrive20d 135 kW (184 CV) 146.110 km 2013 Diésel 184 CV Automático Gris Precio financiado 12.411 € Precio contado 13.490 € Tel. 911670817
 [Coches con etiqueta B Ocasión] Saab 9-3 1.9 TiD Vector 110 kW (150 CV) 173.145 km 2008 Diésel 150 CV Manual Azul Precio financiado 4.591 € Precio contado 4.990 € Tel. 911670817
+[Coches con etiqueta B Ocasión] Jeep Grand Cherokee 3.0 CRD V6 Limited 184 kW (250 CV) 193.312 km 2013 Diésel 250 CV Automático Blanco Precio financiado 14.711 € Precio contado 15.990 € Tel. 911670817
 [Coches con etiqueta B Ocasión] Peugeot 3008 1.6 HDI Allure 85 kW (115 CV) 139.491 km 2013 Diésel 115 CV Manual Azul Precio financiado 5.971 € Precio contado 6.490 € Tel. 911670817
 [Coches con etiqueta B Ocasión] Volkswagen Touran Advance 1.6 TDI BMT 77 kW (105 CV) DSG 185.000 km 2014 Diésel 105 CV Automático Gris Precio financiado 9.191 € Precio contado 9.990 € Tel. 911670817
 [Coches con etiqueta B Ocasión] Opel Astra 1.3 CDTI ecoFlex Enjoy 70 kW (95 CV) 76.300 km 2012 Diésel 95 CV Manual Gris Plata Precio financiado 6.891 € Precio contado 7.490 € Móstoles Tel. 911677291
