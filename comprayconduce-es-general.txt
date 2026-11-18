@@ -1,4 +1,4 @@
-Información actualizada el 17/11/2026.
+Información actualizada el 18/11/2026.
 
 
 # Ubicaciones y Concesionarios de Compra y Conduce
@@ -149,8 +149,8 @@ Opcionalmente podemos entregar los vehículos en su propia empresa, así como fo
 
 # Coches Ocasión | Compra y Conduce
 
-580 Vehículos encontrados
-Mostrar 580 coches Cerrar
+576 Vehículos encontrados
+Mostrar 576 coches Cerrar
 Filtrar
 Si estás pensando comprar tu coche ocasión por localidad, te facilitamos nuestra exclusiva selección de vehículos para ti.
 ¡Ven a visitarnos!
@@ -171,7 +171,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] Ford EcoSport 1.5 TDCi EcoBlue S&S Trend 74 kW (100 CV) 83.008 km 2020 Diésel 100 CV Manual Gris Precio financiado 11.990 € Precio contado 12.990 € Logroño Tel. 941258248
 [Coches Ocasión] Peugeot 3008 BlueHDI 130 S&S GT Line 96 kW (130 CV) 145.347 km 2019 Diésel 130 CV Manual Marrón Precio financiado 10.490 € Precio contado 11.490 € Móstoles Tel. 911677291
 [Coches Ocasión] Fiat 500 1.0 Hybrid Dolcevita 51 kW (70 CV) 33.800 km 2023 Gasolina 70 CV Manual Azul Precio financiado 9.990 € Precio contado 10.890 € Logroño Tel. 941258248
-[Coches Ocasión] Mitsubishi Colt 1.3 16v Insport 70 kW (95 CV) 153.862 km 2008 Gasolina 95 CV Manual Gris Plata Precio financiado 3.990 € Precio contado 3.990 € Logroño Tel. 941258248
 [Coches Ocasión] BMW X1 sDrive20d 130 kW (177 CV) 142.620 km 2010 Diésel 177 CV Manual Blanco Precio financiado 10.990 € Precio contado 10.990 € Tel. 911670817
 [Coches Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 77.533 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Precio financiado 15.171 € Precio contado 16.490 € Tel. 911670817
 [Coches Ocasión] Jeep Compass 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 96.833 km 2022 Híbrido Electro/Gasolina 240 CV Automático Gris Plata Precio financiado 13.791 € Precio contado 14.990 € Tel. 911670817
@@ -191,7 +190,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] Opel Corsa 1.2T XHL Hybrid Edition eDCT 81 kW (110 CV) 11 km 2025 Gasolina 110 CV Automático Blanco Precio financiado 16.490 € Precio contado 17.990 € Logroño Tel. 941258248
 [Coches Ocasión] Lancia Ypsilon 1.2 Ypsilon Ibrida 81 kW (110 CV) 33 km 2025 Gasolina 110 CV Automático Negro Precio financiado 20.550 € Precio contado 21.550 € Logroño Tel. 941258248
 [Coches Ocasión] Hyundai Tucson 2.0 CRDI Style 103 kW (140 CV) 144.939 km 2006 Diésel 140 CV Manual Negro Precio financiado 6.790 € Precio contado 6.790 € Logroño Tel. 941258248
-[Coches Ocasión] MG ZS 1.5 Hybrid+ Luxury 145 kW (197 CV) 6.889 km 2025 Híbrido Electro/Gasolina 197 CV Automático Gris Plata Precio financiado 18.490 € Precio contado 19.490 € Logroño Tel. 941258248
 [Coches Ocasión] Land Rover Range Rover Evoque D150 Standard FWD 110 kW (150 CV) 101.473 km 2020 Diésel 150 CV Manual Blanco Precio financiado 16.390 € Precio contado 17.890 € Logroño Tel. 941258248
 [Coches Ocasión] BMW Serie 2 218d Gran Tourer 110 kW (150 CV) 149.791 km 2015 Diésel 150 CV Manual Negro Precio financiado 13.490 € Precio contado 13.490 € Logroño Tel. 941258248
 [Coches Ocasión] Ssangyong Tivoli G16 Line 4x2 94 kW (128 CV) 92.980 km 2017 Gasolina 128 CV Manual Negro Precio financiado 8.990 € Precio contado 9.990 € Logroño Tel. 941258248
@@ -453,7 +451,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] Jeep Renegade 1.3 PHEV Trailhawk AWD AT 177 kW (240 CV) 94.578 km 2022 Híbrido Electro/Gasolina 240 CV Automático Azul Precio financiado 14.251 € Precio contado 15.490 € Tel. 911670817
 [Coches Ocasión] DS DS3 Crossback PureTech 155 Grand Chic Auto 115 kW (155 CV) 73.620 km 2020 Gasolina 155 CV Automático Blanco Precio financiado 14.790 € Precio contado 15.790 € Logroño Tel. 941258248
 [Coches Ocasión] Fiat 500 1.0 Hybrid Dolcevita 51 kW (70 CV) 28.053 km 2021 Gasolina 70 CV Manual Azul Precio financiado 9.651 € Precio contado 10.490 € Móstoles Tel. 911677291
-[Coches Ocasión] Fiat 500 1.0 Hybrid Dolcevita 51 kW (70 CV) 27.681 km 2021 Gasolina 70 CV Manual Negro Precio financiado 9.651 € Precio contado 10.490 € Tel. 911670817
 [Coches Ocasión] DS DS 9 E-Tense 250 Rivoli+ 184 kW (250 CV) 54.984 km 2023 Híbrido Electro/Gasolina 250 CV Automático Azul Precio financiado 24.831 € Precio contado 26.990 € Móstoles Tel. 911677291
 [Coches Ocasión] Jeep Avenger 1.2 G Summit 74 kW (100 CV) 9 km 2025 Gasolina 100 CV Manual Gris Precio financiado 21.611 € Precio contado 23.490 € Móstoles Tel. 911677291
 [Coches Ocasión] OMODA 5 1.6 TGDI Premium 108 kW (145 CV) 18.211 km 2025 Gasolina 147 CV Automático Blanco Precio financiado 20.323 € Precio contado 22.090 € Móstoles Tel. 911677291
@@ -636,7 +633,6 @@ Ver todas las Sedes y Contacto
 [Coches Ocasión] Maserati Grecale 2.0 MHEV GT L4 AWD 221 kW (300 CV) 71 km 2022 Gasolina 300 CV Automático Negro Precio financiado 62.551 € Precio contado 67.990 € Tel. 911670817
 [Coches Ocasión] Maserati Grecale 2.0 MHEV GT L4 AWD 221 kW (300 CV) 45 km 2022 Gasolina 300 CV Automático Negro Precio financiado 62.551 € Precio contado 67.990 € Móstoles Tel. 911677291
 [Coches Ocasión] Maserati Grecale 2.0 MHEV GT L4 AWD 221 kW (300 CV) 9.600 km 2022 Gasolina 300 CV Automático Negro Precio financiado 60.711 € Precio contado 65.990 € Tel. 911670817
-[Coches Ocasión] Kia Sportage 1.6 GDi Concept 4x2 97 kW (132 CV) 143.629 km 2018 Gasolina 132 CV Manual Blanco Precio financiado 11.490 € Precio contado 12.490 € Logroño Tel. 941258248
 [Coches Ocasión] Jeep Wrangler 2.0 Sahara 8ATX 280 kW (381 CV) 8.732 km 2022 Híbrido Electro/Gasolina 381 CV Automático Gris oscuro Precio financiado 56.111 € Precio contado 60.990 € Móstoles Tel. 911677291
 [Coches Ocasión] Jeep Renegade 1.0G Longitude 4x2 88 kW (120 CV) 56.106 km 2022 Gasolina 120 CV Manual Gris Precio financiado 13.490 € Precio contado 15.490 € Tel. 911670817
 [Coches Ocasión] Jeep Renegade 1.0G Night Eagle II 4x2 88 kW (120 CV) 74.456 km 2022 Gasolina 120 CV Manual Blanco Precio financiado 13.990 € Precio contado 14.990 € Tel. 911670817
