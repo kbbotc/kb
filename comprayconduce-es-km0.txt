@@ -1,4 +1,4 @@
-Información actualizada el 18/11/2026.
+Información actualizada el 19/11/2026.
 
 
 # Coches KM 0 | Compra y Conduce
@@ -124,7 +124,7 @@ Si estás pensando comprar tu coche km0 por localidad, te facilitamos nuestra ex
 [Coches KM 0] DS DS3 Crossback BlueHDi Performance Line+ Auto 96 kW (131 CV) 5 km 2022 Diésel 130 CV Automático Gris Precio financiado 20.231 € Precio contado 21.990 € Móstoles Tel. 911677291
 [Coches KM 0] DS DS3 BlueHDi 130 Performance Line Auto 96 kW (131 CV) 1 km 2022 Diésel 130 CV Automático Gris Precio financiado 20.231 € Precio contado 21.990 € Tel. 911670817
 [Coches KM 0] Dodge Challenger 6.2 Coupe SRT Hellcat Jailbreak Widebody 535 kW (717 CV) 50 km 2022 Gasolina 717 CV Automático Gris Precio financiado 89.231 € Precio contado 99.990 € Tel. 911670817
-[Coches KM 0] Citroen Jumpy Furgon BlueHDi 100 Talla M 75 kW (102 CV) 40 km 2023 Diésel 102 CV Manual Blanco Precio financiado 22.991 € Precio contado 24.990 € Móstoles Tel. 911677291
+[Coches KM 0] Citroen Jumpy Furgon BlueHDi 100 S&S Talla M 75 kW (102 CV) 40 km 2023 Diésel 102 CV Manual Blanco Precio financiado 22.991 € Precio contado 24.990 € Móstoles Tel. 911677291
 [Coches KM 0] Alfa Romeo Tonale 1.5 MHEV Sprint FWD 96 kW (130 CV) 5 km 2023 Gasolina 130 CV Automático Blanco Precio financiado 24.831 € Precio contado 26.990 € Móstoles Tel. 911677291
 
 
@@ -472,7 +472,7 @@ Mostrar 56 coches Cerrar
 [Coches con etiqueta C KM 0] DS DS3 Crossback BlueHDi Performance Line+ Auto 96 kW (131 CV) 5 km 2022 Diésel 130 CV Automático Gris Precio financiado 20.231 € Precio contado 21.990 € Móstoles Tel. 911677291
 [Coches con etiqueta C KM 0] DS DS3 BlueHDi 130 Performance Line Auto 96 kW (131 CV) 1 km 2022 Diésel 130 CV Automático Gris Precio financiado 20.231 € Precio contado 21.990 € Tel. 911670817
 [Coches con etiqueta C KM 0] Dodge Challenger 6.2 Coupe SRT Hellcat Jailbreak Widebody 535 kW (717 CV) 50 km 2022 Gasolina 717 CV Automático Gris Precio financiado 89.231 € Precio contado 99.990 € Tel. 911670817
-[Coches con etiqueta C KM 0] Citroen Jumpy Furgon BlueHDi 100 Talla M 75 kW (102 CV) 40 km 2023 Diésel 102 CV Manual Blanco Precio financiado 22.991 € Precio contado 24.990 € Móstoles Tel. 911677291
+[Coches con etiqueta C KM 0] Citroen Jumpy Furgon BlueHDi 100 S&S Talla M 75 kW (102 CV) 40 km 2023 Diésel 102 CV Manual Blanco Precio financiado 22.991 € Precio contado 24.990 € Móstoles Tel. 911677291
 
 
 # Coches KM 0 en Madrid | Compra y Conduce
@@ -578,7 +578,7 @@ Mostrar 102 coches Cerrar
 [Coches KM 0 en Madrid] DS DS3 Crossback BlueHDi Performance Line+ Auto 96 kW (131 CV) 5 km 2022 Diésel 130 CV Automático Gris Precio financiado 20.231 € Precio contado 21.990 € Móstoles Tel. 911677291
 [Coches KM 0 en Madrid] DS DS3 BlueHDi 130 Performance Line Auto 96 kW (131 CV) 1 km 2022 Diésel 130 CV Automático Gris Precio financiado 20.231 € Precio contado 21.990 € Tel. 911670817
 [Coches KM 0 en Madrid] Dodge Challenger 6.2 Coupe SRT Hellcat Jailbreak Widebody 535 kW (717 CV) 50 km 2022 Gasolina 717 CV Automático Gris Precio financiado 89.231 € Precio contado 99.990 € Tel. 911670817
-[Coches KM 0 en Madrid] Citroen Jumpy Furgon BlueHDi 100 Talla M 75 kW (102 CV) 40 km 2023 Diésel 102 CV Manual Blanco Precio financiado 22.991 € Precio contado 24.990 € Móstoles Tel. 911677291
+[Coches KM 0 en Madrid] Citroen Jumpy Furgon BlueHDi 100 S&S Talla M 75 kW (102 CV) 40 km 2023 Diésel 102 CV Manual Blanco Precio financiado 22.991 € Precio contado 24.990 € Móstoles Tel. 911677291
 [Coches KM 0 en Madrid] Alfa Romeo Tonale 1.5 MHEV Sprint FWD 96 kW (130 CV) 5 km 2023 Gasolina 130 CV Automático Blanco Precio financiado 24.831 € Precio contado 26.990 € Móstoles Tel. 911677291
 
 
