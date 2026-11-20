@@ -1102,8 +1102,8 @@ Mostrar 580 coches Cerrar
 
 # Coches Ocasión en La Rioja | Compra y Conduce
 
-66 Vehículos encontrados
-Mostrar 66 coches Cerrar
+67 Vehículos encontrados
+Mostrar 67 coches Cerrar
 
 [Coches Ocasión en La Rioja] DS DS7 BlueHDi 130 Pallas AT 96 kW (130 CV) 14 km 2025 Diésel 130 CV Automático Blanco Precio financiado 33.990 € Precio contado 36.990 € Logroño Tel. 941258248
 [Coches Ocasión en La Rioja] Ford EcoSport 1.5 TDCi EcoBlue S&S Trend 74 kW (100 CV) 83.008 km 2020 Diésel 100 CV Manual Gris Precio financiado 11.990 € Precio contado 12.990 € Logroño Tel. 941258248
@@ -1162,6 +1162,7 @@ Mostrar 66 coches Cerrar
 [Coches Ocasión en La Rioja] Peugeot 508 BlueHDI 130 S&S Allure Pack EAT8 96 kW (130 CV) 9.269 km 2022 Diésel 130 CV Automático Azul Precio financiado 21.990 € Precio contado 22.990 € Logroño Tel. 941258248
 [Coches Ocasión en La Rioja] Peugeot 2008 BlueHDi 110 Allure Pack 81 kW (110 CV) 22.346 km 2022 Diésel 110 CV Manual Naranja Precio financiado 18.490 € Precio contado 19.490 € Logroño Tel. 941258248
 [Coches Ocasión en La Rioja] Peugeot 3008 PureTech 130 S&S Allure Pack EAT8 96 kW (130 CV) 29.372 km 2022 Gasolina 130 CV Automático Blanco Precio financiado 17.011 € Precio contado 18.490 € Logroño Tel. 941258248
+[Coches Ocasión en La Rioja] Kia Sportage 1.6 GDi Concept 4x2 97 kW (132 CV) 143.629 km 2018 Gasolina 132 CV Manual Blanco Precio financiado 11.490 € Precio contado 12.490 € Logroño Tel. 941258248
 [Coches Ocasión en La Rioja] Jeep Renegade eHybrid Longitude ATX 96 kW (130 CV) 73.997 km 2022 Gasolina 130 CV Automático Blanco Precio financiado 16.490 € Precio contado 17.990 € Logroño Tel. 941258248
 [Coches Ocasión en La Rioja] Jeep Grand Cherokee 2.0 PHEV Overland 4xe 280 kW (381 CV) 45.000 km 2023 Híbrido Electro/Gasolina 381 CV Automático Blanco Precio financiado 59.990 € Precio contado 64.990 € Logroño Tel. 941258248
 [Coches Ocasión en La Rioja] Fiat Tipo 1.5 Hybrid City Life DCT 96 kW (130 CV) 92.512 km 2022 Gasolina 130 CV Automático Azul Precio financiado 13.490 € Precio contado 14.990 € Logroño Tel. 941258248
